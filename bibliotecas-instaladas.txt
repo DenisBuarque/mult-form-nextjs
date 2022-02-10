@@ -1,0 +1,4 @@
+npm install styled-components
+npm install -D @types/styled-components
+npm install react-router-dom@6
+npm install -D @types/react-router-dom
